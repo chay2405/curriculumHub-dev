@@ -13,7 +13,6 @@
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
-- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -27,9 +26,6 @@
 - [Groq API Setup](#-groq-api-setup)
 - [Running the Project](#-running-the-project)
 - [Deployment](#-deployment)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -40,12 +36,6 @@ CurrHub is a full-stack AI-powered web platform that enables faculty members to 
 Designing a curriculum manually is time-consuming, inconsistent, and often misaligned with industry needs. CurrHub solves this by automating curriculum generation with AI, ensuring every course, topic, and learning outcome is relevant, structured, and industry-aligned. Faculty can publish curricula directly to their college's students with one click.
 
 Students from the same college can browse all published curricula, download them as PDF or JSON, and interact with Sage — an AI study companion that generates personalized learning roadmaps. Sage integrates new topics the student wants to learn alongside their existing semester schedule, creating a unified study plan.
-
----
-
-## ⚡ Live Demo
-
-Live platform URL: [https://currhub.vercel.app](https://currhub.vercel.app)
 
 ---
 
@@ -602,30 +592,6 @@ git push -u origin main
 
 ---
 
-## 📸 Screenshots
-
-Here is a visual showcase of CurrHub in action:
-
-### 🔐 Authentication & User Roles
-
-| Faculty Registration | Student Registration |
-| :---: | :---: |
-| ![Faculty Registration](screenshots/faculty_registration.png) | ![Student Registration](screenshots/student_registration.png) |
-
-### 👨‍🏫 Faculty Portal & AI Generation
-
-| AI Curriculum Design Form | Student Engagement Monitor |
-| :---: | :---: |
-| ![Generate Curriculum Form](screenshots/generate_curriculum_form.png) | ![Faculty Student Monitoring](screenshots/faculty_student_monitoring.png) |
-
-### 👩‍🎓 Student Portal & Learning Tools
-
-| Interactive Syllabus Details View | Student Progress Dashboard |
-| :---: | :---: |
-| ![View Curriculum Page](screenshots/view_curriculum_page.png) | ![Student Dashboard Progress](screenshots/student_dashboard_progress.png) |
-
----
-
 ## ⚠️ Important Notes
 
 1. **College Name Matching**
@@ -642,32 +608,6 @@ Here is a visual showcase of CurrHub in action:
 
 5. **PDF Generation**
    PDF is generated entirely client-side using jsPDF. No data is sent to any external service during PDF export.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes please open an issue first.
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add YourFeature'`
-4. Push to branch: `git push origin feature/YourFeature`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgements
-
-- IBM Granite team for inspiration on AI curriculum design
-- Groq for blazing fast LLaMA inference
-- Firebase for real-time backend infrastructure
-- Smartbridge & Skill Wallet for the original project concept
 
 ---
 Built with ❤️ using React, Firebase, and Groq AI

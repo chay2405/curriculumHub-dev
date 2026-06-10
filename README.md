@@ -13,6 +13,7 @@
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
+- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -36,6 +37,12 @@ CurrHub is a full-stack AI-powered web platform that enables faculty members to 
 Designing a curriculum manually is time-consuming, inconsistent, and often misaligned with industry needs. CurrHub solves this by automating curriculum generation with AI, ensuring every course, topic, and learning outcome is relevant, structured, and industry-aligned. Faculty can publish curricula directly to their college's students with one click.
 
 Students from the same college can browse all published curricula, download them as PDF or JSON, and interact with Sage — an AI study companion that generates personalized learning roadmaps. Sage integrates new topics the student wants to learn alongside their existing semester schedule, creating a unified study plan.
+
+---
+
+## ⚡ Live Demo
+
+Live platform URL: [https://curriculum-hub-dev.vercel.app](https://curriculum-hub-dev.vercel.app)
 
 ---
 

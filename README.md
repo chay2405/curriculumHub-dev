@@ -6,7 +6,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-FFCA28?style=for-the-badge&logo=firebase)
 ![Groq AI](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-F55036?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 

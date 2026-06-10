@@ -606,10 +606,23 @@ git push -u origin main
 
 Here is a visual showcase of CurrHub in action:
 
-1. **Landing Page**: Modern premium intro portal detailing workflows.
-2. **Faculty Dashboard**: Interactive metrics counting syllabi, comments, and drafts.
-3. **Curriculum Creation**: Low-latency generation utilizing Groq LLaMA models.
-4. **Student Hub**: Unified layout displaying college-scoped materials, comments, and Sage.
+### 🔐 Authentication & User Roles
+
+| Faculty Registration | Student Registration |
+| :---: | :---: |
+| ![Faculty Registration](screenshots/faculty_registration.png) | ![Student Registration](screenshots/student_registration.png) |
+
+### 👨‍🏫 Faculty Portal & AI Generation
+
+| AI Curriculum Design Form | Student Engagement Monitor |
+| :---: | :---: |
+| ![Generate Curriculum Form](screenshots/generate_curriculum_form.png) | ![Faculty Student Monitoring](screenshots/faculty_student_monitoring.png) |
+
+### 👩‍🎓 Student Portal & Learning Tools
+
+| Interactive Syllabus Details View | Student Progress Dashboard |
+| :---: | :---: |
+| ![View Curriculum Page](screenshots/view_curriculum_page.png) | ![Student Dashboard Progress](screenshots/student_dashboard_progress.png) |
 
 ---
 
